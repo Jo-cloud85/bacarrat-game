@@ -1,0 +1,10 @@
+./src/sg/edu/nus/iss/baccarat/client/ClientApp.java
+./src/sg/edu/nus/iss/baccarat/client/TrackWins.java
+
+./src/sg/edu/nus/iss/baccarat/server/CardDeck.java
+./src/sg/edu/nus/iss/baccarat/server/DbHandler.java
+./src/sg/edu/nus/iss/baccarat/server/BaccaratEngine.java
+./src/sg/edu/nus/iss/baccarat/server/GameSession.java
+./src/sg/edu/nus/iss/baccarat/server/GamePlayer.java
+./src/sg/edu/nus/iss/baccarat/server/ServerApp.java
+
